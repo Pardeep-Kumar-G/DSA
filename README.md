@@ -56,11 +56,45 @@
 
 ```sh
 └── DSA.git/
-    └── DSA
-        └── DSA
-            ├── Assignment
-            ├── Exercise
-            └── Labs
+    ├── DSA
+    │   └── DSA
+    │       ├── Assignment
+    │       │   └── New Text Document.txt
+    │       ├── Exercise
+    │       │   └── New Text Document.txt
+    │       └── Labs
+    │           ├── Lab2
+    │           │   ├── Lab2.iml
+    │           │   ├── out
+    │           │   └── src
+    │           ├── Lab4prac
+    │           │   ├── Lab4prac.iml
+    │           │   ├── out
+    │           │   └── src
+    │           ├── lab1
+    │           │   ├── lab1.iml
+    │           │   ├── out
+    │           │   └── src
+    │           ├── lab2practic
+    │           │   ├── lab2practic.iml
+    │           │   ├── out
+    │           │   └── src
+    │           ├── lab3practice
+    │           │   ├── lab3practice.iml
+    │           │   └── src
+    │           ├── lab5
+    │           │   ├── lab5.iml
+    │           │   ├── out
+    │           │   └── src
+    │           ├── lab6prac
+    │           │   ├── lab6prac.iml
+    │           │   ├── out
+    │           │   └── src
+    │           └── lab7
+    │               ├── lab7.iml
+    │               ├── out
+    │               └── src
+    └── README.md
 ```
 
 ---
